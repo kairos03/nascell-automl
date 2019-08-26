@@ -6,11 +6,15 @@ from cnn import CNN
 from tensorflow.examples.tutorials.mnist import input_data
 
 def main(action, name):
+    # data load with one hot 
     mnist = input_data.read_data_sets("../MNIST_data/", one_hot=True)
+    # split input action by ',' and make list 
     action = [int(x) for x in action.split(",")]
+    # set training epoch ans batch size 
     training_epochs = 10 
     batch_size = 100
 
+    # 
     action = [action[x:x+4] for x in range(0, len(action), 4)]
     cnn_drop_rate = [c[3] for c in action]
 

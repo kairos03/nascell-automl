@@ -1,0 +1,135 @@
+current time:  14:45:06.044838 episode:  0 loss:  1.4919846 last_state:  [[ 5  5 11  8  7  7 16 12]] last_reward:  0.01
+current time:  14:55:08.814803 episode:  1 loss:  1.9267982 last_state:  [[ 5  5  5  6  5 10 35 21]] last_reward:  0.8206
+current time:  15:03:51.366652 episode:  2 loss:  1.6939639 last_state:  [[ 5  5  6  5  5  8 35 15]] last_reward:  0.01
+current time:  15:13:40.921030 episode:  3 loss:  1.7524935 last_state:  [[ 5  5  5  5  5  9 35 18]] last_reward:  0.01
+current time:  15:22:18.206419 episode:  4 loss:  1.7108728 last_state:  [[ 5  5  5  5  5  8 35 17]] last_reward:  0.824
+current time:  15:32:26.930885 episode:  5 loss:  1.6708512 last_state:  [[ 5  5  5  5  5  9 35 17]] last_reward:  0.01
+current time:  15:43:44.845733 episode:  6 loss:  1.670252 last_state:  [[ 5  5  5  5  5  9 35 17]] last_reward:  0.01
+current time:  15:53:47.010650 episode:  7 loss:  1.6696227 last_state:  [[ 5  5  5  5  5  9 35 17]] last_reward:  0.7213
+current time:  16:04:02.283799 episode:  8 loss:  1.6256137 last_state:  [[ 5  5  5  5  5  9 35 17]] last_reward:  0.651
+current time:  17:26:57.778994 episode:  0 loss:  1.2838938 last_state:  [[ 8  5  5 16  5  5  5 12]] last_reward:  0.01
+current time:  17:33:14.943625 episode:  1 loss:  2.133909 last_state:  [[11  5  5 43  5  5  5 23]] last_reward:  0.5003
+current time:  17:39:17.858443 episode:  2 loss:  2.0503178 last_state:  [[ 6  5  5 53  5  5  5 18]] last_reward:  0.01
+current time:  17:45:09.780464 episode:  3 loss:  2.0730526 last_state:  [[ 8  5  5 50  5  5  5 20]] last_reward:  0.71
+current time:  17:51:13.777636 episode:  4 loss:  1.9243698 last_state:  [[ 7  5  5 51  5  5  5 19]] last_reward:  0.01
+current time:  17:57:06.767734 episode:  5 loss:  1.9640614 last_state:  [[ 8  5  5 51  5  5  5 20]] last_reward:  0.8529
+current time:  18:03:12.540965 episode:  6 loss:  1.8134875 last_state:  [[ 7  5  5 52  5  5  5 19]] last_reward:  0.5444
+current time:  18:09:03.955007 episode:  7 loss:  1.7903695 last_state:  [[ 8  5  5 51  5  5  5 20]] last_reward:  0.01
+current time:  18:15:09.488684 episode:  8 loss:  1.7585171 last_state:  [[ 7  5  5 52  5  5  5 19]] last_reward:  0.7696
+current time:  18:21:00.851839 episode:  9 loss:  1.7381577 last_state:  [[ 8  5  5 51  5  5  5 20]] last_reward:  0.4718
+current time:  18:27:07.057460 episode:  10 loss:  1.7050073 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.01
+current time:  18:33:15.067393 episode:  11 loss:  1.7046684 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.01
+current time:  18:39:19.357397 episode:  12 loss:  1.704314 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.6019
+current time:  18:45:25.105244 episode:  13 loss:  1.6850262 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.5696
+current time:  18:51:31.835813 episode:  14 loss:  1.6740347 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.01
+current time:  18:57:36.682529 episode:  15 loss:  1.6738943 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.01
+current time:  19:03:42.850677 episode:  16 loss:  1.6737473 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.5821
+current time:  19:09:48.309447 episode:  17 loss:  1.6660033 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.5189
+current time:  19:15:55.578985 episode:  18 loss:  1.6615986 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.01
+current time:  19:22:02.696991 episode:  19 loss:  1.6615328 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.01
+current time:  19:28:08.991614 episode:  20 loss:  1.6614639 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.7473
+current time:  19:34:16.785180 episode:  21 loss:  1.6570451 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.01
+current time:  19:40:20.910659 episode:  22 loss:  1.6570072 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.01
+current time:  19:46:27.881821 episode:  23 loss:  1.6569676 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.5024
+current time:  19:52:35.591632 episode:  24 loss:  1.6551741 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.01
+current time:  19:58:41.716331 episode:  25 loss:  1.6551485 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.01
+current time:  20:04:45.435868 episode:  26 loss:  1.6551212 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.4963
+current time:  20:10:52.803807 episode:  27 loss:  1.653948 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.01
+current time:  20:16:56.460817 episode:  28 loss:  1.6539321 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.01
+current time:  20:23:01.995836 episode:  29 loss:  1.6539153 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.5961
+current time:  20:29:08.916772 episode:  30 loss:  1.6531341 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.4401
+current time:  20:35:14.406901 episode:  31 loss:  1.669676 last_state:  [[ 7  5  5 52  5  5  5 21]] last_reward:  0.01
+current time:  20:41:21.838651 episode:  32 loss:  1.6595885 last_state:  [[ 7  5  5 53  5  5  5 20]] last_reward:  0.4775
+current time:  20:47:29.981244 episode:  33 loss:  1.6699296 last_state:  [[ 7  5  5 52  5  5  5 21]] last_reward:  0.01
+current time:  20:53:37.577975 episode:  34 loss:  1.6531339 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.01
+current time:  20:59:45.187852 episode:  35 loss:  1.6698885 last_state:  [[ 7  5  5 52  5  5  5 21]] last_reward:  0.01
+current time:  21:05:51.891554 episode:  36 loss:  1.6531074 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.4403
+current time:  21:11:58.591580 episode:  37 loss:  1.6691812 last_state:  [[ 7  5  5 52  5  5  5 21]] last_reward:  0.01
+current time:  21:18:04.343690 episode:  38 loss:  1.6526713 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.5454
+current time:  21:23:58.230078 episode:  39 loss:  1.6966304 last_state:  [[ 8  5  5 52  5  5  5 21]] last_reward:  0.01
+current time:  21:30:04.550413 episode:  40 loss:  1.6525105 last_state:  [[ 7  5  5 52  5  5  5 20]] last_reward:  0.527
+current time:  21:35:57.652257 episode:  41 loss:  1.6963339 last_state:  [[ 8  5  5 52  5  5  5 21]] last_reward:  0.5221
+current time:  21:42:04.121939 episode:  42 loss:  1.6682886 last_state:  [[ 7  5  5 52  5  5  5 21]] last_reward:  0.01
+current time:  21:48:11.245635 episode:  43 loss:  1.6682922 last_state:  [[ 7  5  5 52  5  5  5 21]] last_reward:  0.5495
+current time:  21:54:19.953040 episode:  44 loss:  1.6686244 last_state:  [[ 7  5  5 52  5  5  5 21]] last_reward:  0.01
+current time:  22:00:25.402394 episode:  45 loss:  1.6686158 last_state:  [[ 7  5  5 52  5  5  5 21]] last_reward:  0.01
+current time:  22:06:29.993208 episode:  46 loss:  1.6686071 last_state:  [[ 7  5  5 52  5  5  5 21]] last_reward:  0.01
+current time:  22:12:36.065592 episode:  47 loss:  1.668598 last_state:  [[ 7  5  5 52  5  5  5 21]] last_reward:  0.5073
+current time:  22:18:28.185041 episode:  48 loss:  1.695646 last_state:  [[ 8  5  5 52  5  5  5 21]] last_reward:  0.01
+current time:  22:24:21.236721 episode:  49 loss:  1.6956301 last_state:  [[ 8  5  5 52  5  5  5 21]] last_reward:  0.7489
+current time:  22:30:14.241011 episode:  50 loss:  1.6947371 last_state:  [[ 8  5  5 52  5  5  5 21]] last_reward:  0.4489
+current time:  22:36:06.441470 episode:  51 loss:  1.6873766 last_state:  [[ 8  5  5 51  5  5  5 21]] last_reward:  0.01
+current time:  22:42:01.013252 episode:  52 loss:  1.6873463 last_state:  [[ 8  5  5 51  5  5  5 21]] last_reward:  0.6446
+current time:  22:47:54.702921 episode:  53 loss:  1.6857753 last_state:  [[ 8  5  5 51  5  5  5 21]] last_reward:  0.6125
+current time:  22:53:49.234650 episode:  54 loss:  1.7040857 last_state:  [[ 8  5  5 51  5  5  5 22]] last_reward:  0.01
+current time:  22:59:40.615738 episode:  55 loss:  1.6874356 last_state:  [[ 8  5  5 51  5  5  5 21]] last_reward:  0.4792
+current time:  23:05:38.864178 episode:  56 loss:  1.7265455 last_state:  [[ 9  5  5 51  5  5  5 22]] last_reward:  0.01
+current time:  23:11:30.863580 episode:  57 loss:  1.6858201 last_state:  [[ 8  5  5 51  5  5  5 21]] last_reward:  0.01
+current time:  23:17:31.694475 episode:  58 loss:  1.7263619 last_state:  [[ 9  5  5 51  5  5  5 22]] last_reward:  0.5495
+current time:  23:23:30.516654 episode:  59 loss:  1.7428584 last_state:  [[ 9  5  5 51  5  5  5 22]] last_reward:  0.01
+current time:  23:29:28.625009 episode:  60 loss:  1.7410039 last_state:  [[ 9  5  5 51  5  5  5 22]] last_reward:  0.5759
+current time:  23:35:27.100176 episode:  61 loss:  1.8120677 last_state:  [[ 9  5  5 50  5  5  5 23]] last_reward:  0.5378
+current time:  23:41:27.381820 episode:  62 loss:  2.0708306 last_state:  [[ 9  5  5 52  5  5  5 19]] last_reward:  0.01
+current time:  23:47:30.570077 episode:  63 loss:  2.1383884 last_state:  [[10  5  5 50  5  5  5 21]] last_reward:  0.7839
+current time:  23:53:42.098985 episode:  64 loss:  1.2867806 last_state:  [[11  5  5  5  5  5  5 31]] last_reward:  0.01
+current time:  23:59:48.937606 episode:  65 loss:  1.1870724 last_state:  [[ 7  5  5  5  5  5  5 27]] last_reward:  0.9568
+current time:  00:05:53.349437 episode:  66 loss:  0.9855618 last_state:  [[ 6  5  5  5  5  5  5 10]] last_reward:  0.9105
+current time:  00:12:00.074465 episode:  67 loss:  1.0596316 last_state:  [[10  5  5  5  5  5  5 10]] last_reward:  0.8553
+current time:  00:18:01.375041 episode:  68 loss:  0.8388879 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  00:24:01.582621 episode:  69 loss:  0.838868 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.9034
+current time:  00:30:01.319041 episode:  70 loss:  0.86861044 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8873
+current time:  00:36:03.232880 episode:  71 loss:  0.838874 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  00:42:04.807011 episode:  72 loss:  0.8389047 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.7933
+current time:  00:48:06.228863 episode:  73 loss:  0.8576917 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  00:54:08.307473 episode:  74 loss:  0.8572664 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8638
+current time:  01:00:11.693298 episode:  75 loss:  0.8395043 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  01:06:12.232730 episode:  76 loss:  0.8395733 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.862
+current time:  01:12:14.545264 episode:  77 loss:  0.85365796 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  01:18:19.336649 episode:  78 loss:  0.8533163 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8863
+current time:  01:24:19.999616 episode:  79 loss:  0.83904827 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  01:30:24.206264 episode:  80 loss:  0.83911425 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8765
+current time:  01:36:26.832941 episode:  81 loss:  0.85194814 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  01:42:30.393247 episode:  82 loss:  0.85162205 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.801
+current time:  01:48:33.588011 episode:  83 loss:  0.83873445 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  01:54:36.797624 episode:  84 loss:  0.83879924 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  02:00:39.866894 episode:  85 loss:  0.83886856 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.9629
+current time:  02:06:42.309153 episode:  86 loss:  0.8505992 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.9455
+current time:  02:12:44.624319 episode:  87 loss:  0.837703 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.9005
+current time:  02:18:47.353459 episode:  88 loss:  0.8509478 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8558
+current time:  02:24:49.395684 episode:  89 loss:  0.8375309 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  02:30:52.433726 episode:  90 loss:  0.8375858 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8954
+current time:  02:36:54.860615 episode:  91 loss:  0.8481835 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.9016
+current time:  02:42:57.488463 episode:  92 loss:  0.83758295 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  02:49:01.079659 episode:  93 loss:  0.8376428 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.821
+current time:  02:55:02.956276 episode:  94 loss:  0.84595174 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  03:01:03.901842 episode:  95 loss:  0.84579605 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  03:07:04.881289 episode:  96 loss:  0.8456375 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8527
+current time:  03:13:06.187611 episode:  97 loss:  0.83810586 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  03:19:08.865203 episode:  98 loss:  0.83817273 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.7934
+current time:  03:25:10.771676 episode:  99 loss:  0.8448958 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  03:31:13.359118 episode:  100 loss:  0.84476495 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8677
+current time:  03:37:15.872432 episode:  101 loss:  0.83833903 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  03:43:17.877014 episode:  102 loss:  0.83840597 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.9247
+current time:  03:49:20.674848 episode:  103 loss:  0.84521085 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.9293
+current time:  03:55:23.023369 episode:  104 loss:  0.83798236 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8845
+current time:  04:01:25.974378 episode:  105 loss:  0.8452015 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  04:07:29.844132 episode:  106 loss:  0.8450697 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.886
+current time:  04:13:32.321525 episode:  107 loss:  0.83823764 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8819
+current time:  04:19:34.480743 episode:  108 loss:  0.8445019 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8158
+current time:  04:25:37.761307 episode:  109 loss:  0.838877 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  04:31:40.211216 episode:  110 loss:  0.838925 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.9302
+current time:  04:37:42.593149 episode:  111 loss:  0.8434285 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8565
+current time:  04:43:46.090408 episode:  112 loss:  0.83919334 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8344
+current time:  04:49:48.583106 episode:  113 loss:  0.8424982 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  04:55:50.257989 episode:  114 loss:  0.8424543 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  05:01:53.089164 episode:  115 loss:  0.8424095 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8472
+current time:  05:07:57.045463 episode:  116 loss:  0.8397203 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8468
+current time:  05:14:00.526693 episode:  117 loss:  0.84208804 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8292
+current time:  05:20:04.697455 episode:  118 loss:  0.840037 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  05:26:07.577614 episode:  119 loss:  0.8400591 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8787
+current time:  05:32:11.450648 episode:  120 loss:  0.841754 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.01
+current time:  05:38:14.700374 episode:  121 loss:  0.84172976 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8945
+current time:  05:44:15.392284 episode:  122 loss:  0.8401541 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8698
+current time:  05:50:18.283449 episode:  123 loss:  0.8437718 last_state:  [[5 5 5 5 5 5 5 5]] last_reward:  0.8322
+current time:  06:00:19.496600 episode:  124 loss:  1.533053 last_state:  [[10  9  9  9  9  9  9  9]] last_reward:  0.01
+current time:  06:13:54.247806 episode:  125 loss:  2.001276 last_state:  [[13 12 12 11 12 12 12 11]] last_reward:  0.936
