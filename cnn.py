@@ -5,7 +5,7 @@ class CNN():
     CNN network to find
     """
     def __init__(self, num_input, num_classes, cnn_config):
-        cnn = [c[0] for c in cnn_config] # listing (idd, filter_size)
+        cnn = [c[0] for c in cnn_config] # listing filter_size
         cnn_num_filters = [c[1] for c in cnn_config]    # listing cnn num of filters
         max_pool_ksize = [c[2] for c in cnn_config]     # listing max pool ksize
 
